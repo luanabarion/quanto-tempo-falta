@@ -1,5 +1,4 @@
-@import
-url('https://fontes.googleapis.com/css2?family=Chakra+Petch&display=swap');
+@import url('https://fontes.googleapis.com/css2?family=Chakra+Petch&display=swap');
  
 
 :root{
@@ -20,5 +19,5 @@ h1 span{
 
 #dias_restantes{
     color:var(--verde);
-    font: size 50px;;
+    font-size 50px;;
 }
