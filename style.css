@@ -9,7 +9,7 @@
 body{
     background-color:var(--cor-de-fundo);
     color:var(--branco);
-    text-align: center;
+    text-align:center;
     font-family:'Chakra Petch';
 }
 
